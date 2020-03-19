@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Classes\bin\Debug\Classes.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Classes\bin\Debug\Classes.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Classes\bin\Debug\Classes.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Classes\obj\Debug\Classes.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Classes\obj\Debug\Classes.pdb
