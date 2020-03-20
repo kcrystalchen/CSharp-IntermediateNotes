@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Properties\bin\Debug\Properties.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Properties\bin\Debug\Properties.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Properties\bin\Debug\Properties.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Properties\obj\Debug\Properties.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Properties\obj\Debug\Properties.pdb
