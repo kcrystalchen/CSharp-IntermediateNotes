@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Constructor0\bin\Debug\Constructor0.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Constructor0\bin\Debug\Constructor0.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Constructor0\bin\Debug\Constructor0.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Constructor0\obj\Debug\Constructor0.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Constructor0\obj\Debug\Constructor0.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\Constructor0\obj\Debug\Constructor0.pdb
