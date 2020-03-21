@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\AccessModifiers0\bin\Debug\AccessModifiers0.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\AccessModifiers0\bin\Debug\AccessModifiers0.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\AccessModifiers0\bin\Debug\AccessModifiers0.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\AccessModifiers0\obj\Debug\AccessModifiers0.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\AccessModifiers0\obj\Debug\AccessModifiers0.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\AccessModifiers0\obj\Debug\AccessModifiers0.pdb

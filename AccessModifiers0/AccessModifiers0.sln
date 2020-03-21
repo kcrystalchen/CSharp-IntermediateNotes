@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers0", "AccessModifiers0.csproj", "{B55C8079-D6CC-4225-83FB-4A6AE97F041D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "..\Amazon\Amazon.csproj", "{AE8BFA62-69A1-423A-A266-A78DE8280F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55C8079-D6CC-4225-83FB-4A6AE97F041D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55C8079-D6CC-4225-83FB-4A6AE97F041D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55C8079-D6CC-4225-83FB-4A6AE97F041D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55C8079-D6CC-4225-83FB-4A6AE97F041D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8BFA62-69A1-423A-A266-A78DE8280F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8BFA62-69A1-423A-A266-A78DE8280F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8BFA62-69A1-423A-A266-A78DE8280F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8BFA62-69A1-423A-A266-A78DE8280F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A888DC3E-7F73-4376-84EC-AF7CC611A22B}
+	EndGlobalSection
+EndGlobal
