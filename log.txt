@@ -1,0 +1,4 @@
+LoggerInfo : Migration started at 3/22/2020 10:24:19 PM
+LoggerInfo : Migration ended at 3/22/2020 10:24:19 PM
+LoggerInfo : Migration started at 3/22/2020 10:24:29 PM
+LoggerInfo : Migration ended at 3/22/2020 10:24:29 PM

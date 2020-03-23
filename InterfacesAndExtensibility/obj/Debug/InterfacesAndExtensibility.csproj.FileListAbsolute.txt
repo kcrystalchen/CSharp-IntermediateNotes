@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.pdb
