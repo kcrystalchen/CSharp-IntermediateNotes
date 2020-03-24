@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStackOverFlowPost\bin\Debug\DesignAStackOverFlowPost.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStackOverFlowPost\bin\Debug\DesignAStackOverFlowPost.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStackOverFlowPost\bin\Debug\DesignAStackOverFlowPost.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStackOverFlowPost\obj\Debug\DesignAStackOverFlowPost.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStackOverFlowPost\obj\Debug\DesignAStackOverFlowPost.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStackOverFlowPost\obj\Debug\DesignAStackOverFlowPost.pdb
