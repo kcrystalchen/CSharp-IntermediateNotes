@@ -9,26 +9,26 @@ namespace DesignADatabaseConnection
         // 3. NULL and empty string will consider as not a valid connection string
         // 4. Throw an exception when it is not a valid DbConnection state (class)
 
-        public string ConnectionString { get; set; }
-        public TimeSpan Timeout { get; set; }
+        public string ConnectionString { get; private set; }
+        public TimeSpan TimeOut { get; private set; }
 
         // 5. Two methods for opening and closing database as an abstract methods
-        public DbConnection(string ConnectionString)  // DbConnection will not be a valid state (class) if it does not have a connection string
+        protected DbConnection(string connectionString)  // DbConnection will not be a valid state (class) if it does not have a connection string
         {
-            if (ConnectionString == null || ConnectionString == " " )
+            if (String.IsNullOrWhiteSpace(connectionString))
             {
                 throw new InvalidOperationException("Connection String should not be NULL or empty string");
             }
+
+            ConnectionString = connectionString; // input connectionString assigned to field ConnectionString 
+
         }
-
-
 
 
         // opening and closing connection both are abstract as need to understand which DbConnection is
         // so it will leave to derive classes to implement the methods, so the abstract class does not need implementation for the methods
         public abstract void OpeningConnection();
-        
-
+       
         public abstract void ClosingConnection(); // closing the connection once the job is done
  
 

@@ -4,7 +4,8 @@ namespace DesignADatabaseConnection
 {
     public class OracleConnection : DbConnection // OracleConnection will overwrite to the abstract base class (Polymorphism behavior)
     {
-        public OracleConnection(string ConnectionString) : base(ConnectionString)
+        public OracleConnection(string connectionString) 
+            : base(connectionString)
         {
             // because DbConnection passed in connectionString, so OracleConnection needs a constructor to pass in string as well
         }
