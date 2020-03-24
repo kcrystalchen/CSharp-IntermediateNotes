@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStopWatch\obj\Debug\DesignAStopWatch.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStopWatch\bin\Debug\DesignAStopWatch.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStopWatch\bin\Debug\DesignAStopWatch.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStopWatch\bin\Debug\DesignAStopWatch.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStopWatch\obj\Debug\DesignAStopWatch.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStopWatch\obj\Debug\DesignAStopWatch.pdb
