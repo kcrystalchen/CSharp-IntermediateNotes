@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStack\obj\Debug\DesignAStack.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStack\bin\Debug\DesignAStack.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStack\bin\Debug\DesignAStack.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStack\bin\Debug\DesignAStack.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStack\obj\Debug\DesignAStack.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAStack\obj\Debug\DesignAStack.pdb
