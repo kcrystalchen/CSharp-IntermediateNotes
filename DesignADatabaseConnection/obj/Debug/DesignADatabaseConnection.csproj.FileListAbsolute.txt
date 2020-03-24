@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignADatabaseConnection\bin\Debug\DesignADatabaseConnection.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignADatabaseConnection\bin\Debug\DesignADatabaseConnection.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignADatabaseConnection\bin\Debug\DesignADatabaseConnection.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignADatabaseConnection\obj\Debug\DesignADatabaseConnection.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignADatabaseConnection\obj\Debug\DesignADatabaseConnection.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignADatabaseConnection\obj\Debug\DesignADatabaseConnection.pdb
