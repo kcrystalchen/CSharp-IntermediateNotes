@@ -10,15 +10,20 @@ namespace InterfacesAndExtensibility
         {
             _loggerPath = loggerPath;
         }
+
+
         public void LoggerError(string message)
         {
             Log("Error ",  message);
         }
 
+
         public void LoggerInfo(string message)
         {
             Log("LoggerInfo", message);
         }
+
+
 
         private void Log(string messageType, string message)
         {
