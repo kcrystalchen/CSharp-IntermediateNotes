@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAWorkFlowEngine\bin\Debug\DesignAWorkFlowEngine.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAWorkFlowEngine\bin\Debug\DesignAWorkFlowEngine.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAWorkFlowEngine\bin\Debug\DesignAWorkFlowEngine.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAWorkFlowEngine\obj\Debug\DesignAWorkFlowEngine.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAWorkFlowEngine\obj\Debug\DesignAWorkFlowEngine.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\DesignAWorkFlowEngine\obj\Debug\DesignAWorkFlowEngine.pdb

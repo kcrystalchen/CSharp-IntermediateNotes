@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AccessModifiers0"
+    "\\AccessModifiers0",
+    "\\InterfacesAndExtensibility"
   ],
-  "SelectedNode": "\\AccessModifiers0\\AccessModifiers0.sln",
+  "SelectedNode": "\\InterfacesAndExtensibility\\ConsoleLogger.cs",
   "PreviewInSolutionExplorer": false
 }
