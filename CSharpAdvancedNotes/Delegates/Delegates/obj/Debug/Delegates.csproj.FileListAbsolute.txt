@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\Delegates\obj\Debug\Delegates.pdb

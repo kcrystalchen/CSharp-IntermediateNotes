@@ -14,11 +14,7 @@ namespace Generics
         {
             // For Not Generics examples: we need to instance each list 
             Book book = new Book {Isbn = "1234567", Title = "C# Advanced"};  // instance of the Book object
-
-
-            Booklist booklist = new Booklist(); // instance of the bookList
-            booklist.Add(book);
-
+            Del
 
 
             List numbers = new List();  // instance of List 
