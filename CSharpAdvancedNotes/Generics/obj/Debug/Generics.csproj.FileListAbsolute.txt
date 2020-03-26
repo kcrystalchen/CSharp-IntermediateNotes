@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Generics\bin\Debug\Generics.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Generics\bin\Debug\Generics.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Generics\bin\Debug\Generics.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Generics\obj\Debug\Generics.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Generics\obj\Debug\Generics.pdb
