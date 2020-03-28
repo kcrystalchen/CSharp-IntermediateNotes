@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\EventsAndDelegets\bin\Debug\EventsAndDelegets.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\EventsAndDelegets\bin\Debug\EventsAndDelegets.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\EventsAndDelegets\bin\Debug\EventsAndDelegets.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\EventsAndDelegets\obj\Debug\EventsAndDelegets.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\EventsAndDelegets\obj\Debug\EventsAndDelegets.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\Delegates\EventsAndDelegets\obj\Debug\EventsAndDelegets.pdb
