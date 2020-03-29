@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\NullableType\bin\Debug\NullableType.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\NullableType\bin\Debug\NullableType.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\NullableType\bin\Debug\NullableType.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\NullableType\obj\Debug\NullableType.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\NullableType\obj\Debug\NullableType.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\NullableType\obj\Debug\NullableType.pdb
