@@ -1,0 +1,6 @@
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\krystal.chen\Documents\CSharpIntermediateNotes\CSharpAdvancedNotes\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
